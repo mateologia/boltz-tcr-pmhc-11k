@@ -1,0 +1,8 @@
+*.out
+*.err
+boltz_results_all_gpu/
+boltz_inputs_all/
+*.cif
+*.json
+__pycache__/
+.boltz/
